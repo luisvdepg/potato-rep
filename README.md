@@ -1,2 +1,2 @@
 # potato-rep
-Repositoriod e prueba
+Repositorio de prueba
